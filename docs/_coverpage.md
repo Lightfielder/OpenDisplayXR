@@ -10,5 +10,4 @@
 
 - (Scroll down for more info...)
 
-[GitHub](https://github.com/Kartaverse/OpenDisplayXR) [Monado](https://monado.dev/)
-
+[GitHub](https://github.com/Lightfielder/OpenDisplayXR) [Monado](https://monado.dev/)
